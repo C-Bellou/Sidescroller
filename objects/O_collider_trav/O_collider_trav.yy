@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"O_collider_trav",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_fantome","path":"objects/O_fantome/O_fantome.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"O_collider_trav",
   "overriddenProperties":[],
@@ -11,10 +9,7 @@
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"O_collider",
-    "path":"objects/O_collider/O_collider.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

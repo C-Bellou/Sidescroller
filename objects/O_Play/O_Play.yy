@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"T_Play",
-    "path":"sprites/T_Play/T_Play.yy",
+    "name":"T_play",
+    "path":"sprites/T_play/T_play.yy",
   },
   "spriteMaskId":null,
   "visible":true,
